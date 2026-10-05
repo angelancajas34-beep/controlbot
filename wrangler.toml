@@ -1,6 +1,6 @@
-name = "controlbot"
+name = "controller-bot"
 main = "src/index.js"
-compatibility_date = "2025-10-01"
+compatibility_date = "2026-10-05"
 
 [vars]
 OWNER_ID = "7839994504"             # your numeric Telegram ID
